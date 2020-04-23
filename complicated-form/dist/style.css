@@ -1,0 +1,8 @@
+.form {
+  width: 400px;
+  font-family: 'Roboto', sans-serif;
+}
+
+legend, button {
+  font-weight: bold;
+}
